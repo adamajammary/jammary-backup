@@ -535,7 +535,7 @@ namespace JammaryBackup
                 foreach (string file in filesToCompress)
                 {
                     // Set the compression application (7zip).
-                    sevenZip.StartInfo.FileName = @"3rd\7za.exe";
+                    sevenZip.StartInfo.FileName = @"3rd\\7za.exe";
 
                     // Set the working directory, 
                     // this way we can provide relative paths to the backup directory
