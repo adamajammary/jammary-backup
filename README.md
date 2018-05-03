@@ -1,5 +1,5 @@
 # jammary-backup
-Jammary Backup - A backup utility (WinForms, .NET, C#)
+Jammary Backup - A backup utility (C#, .NET, WinForms)
 
 A backup utility that is not too limited or too complicated, one that saves the backup files in the standard ZIP format for easy management and can be quickly implemented and used by both home users and enterprise IT Admins alike.
 
